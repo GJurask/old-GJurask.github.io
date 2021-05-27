@@ -27,7 +27,7 @@ tr:nth-child(even){background-color: #f2f2f2}
     width: 150px;
     height: auto;
     /* animation-name: animarCarro;*/
-    top: 250px ;
+    top: 150px ;
     left: 0px;
     left: -200px;
 }
