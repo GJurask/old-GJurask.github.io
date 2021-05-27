@@ -1,7 +1,7 @@
 (function () {
     busAnimation.addEventListener('click', function (e) {
         e.preventDefault();
-        document.getElementById("bus").style.animationDuration = "8s";
+        document.getElementById("bus").style.animationDuration = "4s";
         document.getElementById("bus").style.animationName = "animarCarro"
         // Start the animation.
         //document.getElementById("bus").classList.add("carro2");
