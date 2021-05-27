@@ -61,6 +61,7 @@ html {
 
   .half-size{      
     height: auto !important;
+    width: auto !important;
   }
   
   #page-wrapper {
