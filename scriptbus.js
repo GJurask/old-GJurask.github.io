@@ -1,7 +1,7 @@
 (function () {
     busAnimation.addEventListener('click', function (e) {
         e.preventDefault();
-        document.getElementById("bus").style.animationDuration = "4s";
+        document.getElementById("bus").style.animationDuration = "5s";
         document.getElementById("bus").style.animationName = "animarCarro"
         // Start the animation.
         //document.getElementById("bus").classList.add("carro2");
@@ -20,7 +20,7 @@
             // Set the href property.
             a.href = "https://docs.google.com/forms/d/e/1FAIpQLSdUhiGdIVX3ZxFgEnTCsL0QJIQie8PA2Nk9KGH-mAlSpCH7MA/viewform";
             a.click();
-        }, 6000);
+        }, 5000);
         // Create anchor element.
 
         // Append the anchor element to the body.
